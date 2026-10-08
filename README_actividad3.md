@@ -24,7 +24,6 @@ python actividad3_ej82_notas.py
 python actividad3_ej83_figuras.py
 ```
 
-En Google Colab no funcionan, porque es un entorno sin interfaz gráfica.
 
 ## Archivos
 
