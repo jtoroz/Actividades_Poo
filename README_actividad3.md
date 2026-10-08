@@ -33,6 +33,7 @@ python actividad3_ej83_figuras.py
 - `interfaz_ej82_notas.png` - interfaz de usuario del ejercicio 8.2
 - `interfaz_ej83_menu.png` - ventana principal del ejercicio 8.3
 - `interfaz_ej83_cilindro.png` - ventana del cilindro del ejercicio 8.3
+- `interfaz_ej83_esfera.png` - ventana de la esfera del ejercicio 8.3
 - `interfaz_ej83_piramide.png` - ventana de la pirámide del ejercicio 8.3
 - `diagrama_clases_ej82.png` - diagrama de clases del ejercicio 8.2
 - `diagrama_objetos_ej82.png` - diagrama de objetos del ejercicio 8.2
